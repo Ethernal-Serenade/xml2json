@@ -10,7 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "byline": "^5.0.0",
+    "excel4node": "^1.7.2",
     "fs": "0.0.1-security",
-    "xml2js": "^0.4.23"
+    "json-2-csv": "^3.10.2",
+    "json-as-xlsx": "^1.1.8",
+    "json2xls": "^0.1.2",
+    "node-json-xlsx": "^0.2.2",
+    "sax": "^1.2.4",
+    "saxpath": "^0.6.5",
+    "xlsx": "^0.16.9",
+    "xml-splitter": "^1.2.1",
+    "xml2js": "^0.4.23",
+    "xmlsplit": "^1.2.8"
   }
 }
